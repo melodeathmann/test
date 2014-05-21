@@ -1,0 +1,6 @@
+https://developers.facebook.com/apps/215233645327525/
+http://vk.com/app4119434
+
+http://vk.com/app4119442
+
+keytool.exe -exportcert -alias Packager -keystore d:\FaceBookApp\packager-test-key.keystore | openssl sha1 -binary | openssl base64
